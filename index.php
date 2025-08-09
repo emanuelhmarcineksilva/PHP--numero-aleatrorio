@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../Sucessor e antecessor/style.css">
+    <link rel="stylesheet" href="style.css">
     <title>Aleatório</title>
 </head>
 <body>
@@ -20,4 +20,5 @@
     </section>
     <p></p><a href=""><?php header("Refresh")?>Recaregar a página</a>
 </body>
+
 </html>
